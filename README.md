@@ -27,7 +27,8 @@ Here are some tools and technologies I use:
 
 ## 📈 GitHub Stats
 
-![Tilak-csd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tilak-csd&show_icons=true&theme=radical)
+![Tilak-csd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tilak-csd&show_icons=true&theme=radical&cache_seconds=1800
+)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tilak-csd&layout=compact&theme=radical)
 
@@ -36,7 +37,8 @@ Here are some tools and technologies I use:
 ## 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME)  
 - [Twitter](https://twitter.com/YOUR_USERNAME)  
-- [Portfolio](https://programmercsd.free.nf)  
+- [Portfolio](https://programmercsd.free.nf)
+- [Instagram](https://instagram.com/its_zorotz)
 
 ---
 
