@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Tilak Man Gubhaju
 
 Welcome to my GitHub profile! 🚀  
 I'm passionate about building, learning, and sharing knowledge through code.  
@@ -8,10 +8,10 @@ I'm passionate about building, learning, and sharing knowledge through code.
 ## 🌟 About Me
 - 🔭 Currently working on: Building my own agency
 - 🌱 Learning: Completing MERN Full-Stack
-- 👯 Looking to collaborate on: [Open-source projects, ideas, or communities]
-- 💬 Ask me about: [Areas of expertise or interest]
-- 📫 How to reach me: [tilakgubhaju3@gmail.com]
-- ⚡ Fun fact: [Silly, shy one]
+- 👯 Looking to collaborate on: Open-source projects, ideas, or communities
+- 💬 Ask me about: Areas of expertise or interest
+- 📫 How to reach me: tilakgubhaju3@gmail.com
+- ⚡ Fun fact: Silly, shy one
 
 ---
 
@@ -26,7 +26,8 @@ Here are some tools and technologies I use:
 ---
 
 ## 📈 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tilak-csdE&show_icons=true&theme=radical)
+
+![Tilak-csd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tilak-csd&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tilak-csd&layout=compact&theme=radical)
 
