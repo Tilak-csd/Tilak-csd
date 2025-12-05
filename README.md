@@ -6,7 +6,7 @@ I'm passionate about building, learning, and sharing knowledge through code.
 ---
 
 ## 🌟 About Me
-- 🔭 Currently working on: PayTM App End-to-End
+- 🔭 Currently working on: Learning new Concept (Lazy Loading)
 - 🌱 Learning: Completing MERN Full-Stack
 - 👯 Looking to collaborate on: Open-source projects, ideas, or communities
 - 💬 Ask me about: Areas of expertise or interest
