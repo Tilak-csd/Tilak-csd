@@ -6,8 +6,8 @@ I'm passionate about building, learning, and sharing knowledge through code.
 ---
 
 ## 🌟 About Me
-- 🔭 Currently working on: Portfolio
-- 🌱 Learning: TypeScript
+- 🔭 Currently working on: Company Projects
+- 🌱 Learning: PostgreSQL
 - 👯 Looking to collaborate on: Open-source projects, ideas, or communities
 - 💬 Ask me about: Areas of expertise or interest
 - 📫 How to reach me: tilakgubhaju3@gmail.com
