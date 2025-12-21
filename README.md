@@ -18,9 +18,9 @@ I'm passionate about building, learning, and sharing knowledge through code.
 ## 🛠️ Tech Stack
 Here are some tools and technologies I use:
 
-- **Languages:** Python, JavaScript, PHP, HTML
+- **Languages:** Python, JavaScript, PHP, HTML, TypeScript
 - **Frameworks:** React, Node.js, Express, Tailwindcss, Bootstraps
-- **Databases:**  MongoDB, MySQL  
+- **Databases:**  MongoDB, MySQL, PostgreSQL
 - **Tools:** Git, VS Code, GitHub Actions  
 
 ---
